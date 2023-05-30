@@ -1,0 +1,49 @@
+.container {
+    background-color: white;
+    display: grid;
+
+}
+.title {
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+.text-box {
+    width: 1180px;
+    height: 40px;
+    margin: 0px 40px 20px 40px;
+    font-size: 18px;
+}
+
+.buttons {
+    width: 1190px;
+    height: 40px;
+    margin: 0px 40px 20px 40px;
+}
+
+.button {
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.Add {
+    background-color: rgb(0, 89, 255);
+    margin-right: 20px;
+    width: 900px;
+}
+.Dele {
+    background-color: rgb(253, 0, 0);
+    width: 270px;
+}
+
+.container-works {
+    background-color: rgb(162, 250, 221);
+    height: 100%;
+    margin: 0px 50px 0px 40px;
+    padding: 10px;
+    border-radius: 10px;
+}

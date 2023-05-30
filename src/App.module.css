@@ -1,0 +1,17 @@
+
+/* Cambio de estado de tareas completadas */
+.task {
+  cursor: pointer;
+  margin: 20px;
+  color: rgb(0, 110, 255);
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.completed {
+  text-decoration: line-through;
+  opacity: 70%;
+  color: gray;
+}
